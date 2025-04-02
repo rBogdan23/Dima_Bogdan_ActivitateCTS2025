@@ -6,6 +6,7 @@ public class Main {
         Credit creditNevoiPersonale = CreditFactory.createCredit("nevoi personale", 50000, 5.5);
 
         creditNevoiPersonale.descriere();
-
+        Credit creditIpotecar = CreditFactory.createCredit("ipotecar", 200000, 3.5);
+        creditIpotecar.descriere();
     }
 }
