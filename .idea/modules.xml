@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Adapter/Adapter.iml" filepath="$PROJECT_DIR$/Adapter/Adapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/Banca/Banca.iml" filepath="$PROJECT_DIR$/Banca/Banca.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Dima_Bogdan_ActivitateCTS2025.iml" filepath="$PROJECT_DIR$/.idea/Dima_Bogdan_ActivitateCTS2025.iml" />
       <module fileurl="file://$PROJECT_DIR$/Farmacie/Farmacie.iml" filepath="$PROJECT_DIR$/Farmacie/Farmacie.iml" />
