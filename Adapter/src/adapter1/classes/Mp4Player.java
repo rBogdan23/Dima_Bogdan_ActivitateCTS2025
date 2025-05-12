@@ -1,4 +1,4 @@
-package classes;
+package adapter1.classes;
 
 public class Mp4Player implements AdvancedMediaPlayer {
     public void playVlc(String fileName) {

@@ -1,6 +1,6 @@
-package main;
+package adapter1.main;
 
-import classes.AudioPlayer;
+import adapter1.classes.AudioPlayer;
 
 public class AdapterPatternDemo {
     public static void main(String[] args) {

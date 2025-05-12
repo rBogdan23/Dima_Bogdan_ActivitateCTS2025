@@ -1,4 +1,4 @@
-package classes;
+package adapter1.classes;
 
 public class MediaAdapter implements MediaPlayer {
     AdvancedMediaPlayer advancedMediaPlayer;
